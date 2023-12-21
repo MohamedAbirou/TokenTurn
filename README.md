@@ -1,6 +1,6 @@
-# Coins Catalog
+# BitBoard
 
-Welcome to the Coins Catalog project! This project is designed to provide a comprehensive catalog of coins. 
+Welcome to BitBoard project! This project is designed to provide a comprehensive catalog of digital coins. 
 
 ## Table of Contents
 

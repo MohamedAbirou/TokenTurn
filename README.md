@@ -61,7 +61,7 @@ bun run dev
 
 You can check out the live demo of the project here:
 
-[TokenTurn](https://bitboard-liam-piro.vercel.app/)
+[TokenTurn](https://token-turn.vercel.app/)
 
 ### Contributing
 

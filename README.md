@@ -1,4 +1,4 @@
-# BitBoard
+# TokenTurn
 
 Welcome to BitBoard project! This project is designed to provide a comprehensive catalog of digital coins. 
 
@@ -61,7 +61,7 @@ bun run dev
 
 You can check out the live demo of the project here:
 
-[BitBoard](https://bitboard-liam-piro.vercel.app/)
+[TokenTurn](https://bitboard-liam-piro.vercel.app/)
 
 ### Contributing
 

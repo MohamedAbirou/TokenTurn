@@ -1,6 +1,7 @@
 # TokenTurn
 
-Welcome to BitBoard project! This project is designed to provide a comprehensive catalog of digital coins. 
+Welcome to BitBoard project! This project is designed to provide a comprehensive catalog of digital coins provided by 
+*[CoinGeckoApi](https://www.coingecko.com/en/api)*.
 
 ## Table of Contents
 

@@ -24,7 +24,7 @@ const Navbar = () => {
         height={24}
         alt="logo"
       />
-      BitBoard
+      TokenTurn
     </Link>
   );
 };

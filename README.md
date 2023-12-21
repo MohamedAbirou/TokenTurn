@@ -29,7 +29,7 @@ To install the Coins Catalog, follow these steps:
 
 1. Clone the repo
 ```bash
-git clone https://github.com/MohamedAbirou/bitboard.git
+git clone https://github.com/MohamedAbirou/TokenTurn.git
 ```
 
 2. Install the dependencies

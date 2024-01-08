@@ -1,7 +1,11 @@
 # TokenTurn
 
-Welcome to BitBoard project! This project is designed to provide a comprehensive catalog of digital coins provided by 
+Welcome to TokenTurn project! This project is designed to provide a comprehensive catalog of digital coins provided by 
 *[CoinGeckoApi](https://www.coingecko.com/en/api)*.
+
+### Live Demo
+
+[![TokenTurn](https://github.com/MohamedAbirou/TokenTurn/assets/109366637/43026037-8c68-47cb-8445-3b86944ca5ae)](https://token-turn.vercel.app/)
 
 ## Table of Contents
 
@@ -57,12 +61,6 @@ yarn run dev
 ## or
 bun run dev
 ```
-
-### Live Demo
-
-You can check out the live demo of the project here:
-
-[TokenTurn](https://token-turn.vercel.app/)
 
 ### Contributing
 
